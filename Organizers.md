@@ -25,17 +25,17 @@
 ### Proceedings:
 
 * Stefan van der Walt, Stellenbosch University
-* <unconfirmed>
+* \<unconfirmed\>
 
 ### Financial Aid:
 
 * Jonathan Wiggins, Enthought Inc.
-* Jeff Daily <uncomfirmed>
+* Jeff Daily \<uncomfirmed\>
 
 ### Tutorials:
 
-* Jake van der Plaas, Univeristy of Washington
-* <unconfirmed>
+* Jake VanderPlas, Univeristy of Washington
+* \<unconfirmed\>
 
 ### Sprints:
 
