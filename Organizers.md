@@ -35,7 +35,7 @@
 ### Tutorials:
 
 * Jake VanderPlas, Univeristy of Washington
-* \<unconfirmed\>
+* Kristen Thyng, Texas A&M University
 
 ### Sprints:
 
@@ -46,6 +46,7 @@
 
 *  Matthew Terry
 *  Shiela Migeuz
+*  Jim Ivanoff, Polar Bear Design
 
 ### Sponsors:
 
