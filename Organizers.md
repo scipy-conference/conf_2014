@@ -44,8 +44,8 @@
 
 ### Technical:
 
-*  Matthew Terry
-*  Shiela Migeuz
+*  Matthew Terry, Nextdoor.com
+*  Shiela Migeuz, Columbia University 
 *  Jim Ivanoff, Polar Bear Design
 
 ### Sponsors:
