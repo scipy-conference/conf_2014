@@ -29,7 +29,7 @@
 
 ### Financial Aid:
 
-* Jonathan Wiggins, Enthought Inc.
+* John Wiggins, Enthought Inc.
 * Jeff Daily, Pacific Northwest National Laboratory
 
 ### Tutorials:
