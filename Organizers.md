@@ -25,7 +25,7 @@
 ### Proceedings:
 
 * Stefan van der Walt, Stellenbosch University
-* \<unconfirmed\>
+* James Bergstra, University of Waterloo
 
 ### Financial Aid:
 
@@ -51,6 +51,7 @@
 ### Sponsors:
 
 * Brett Murphy, Enthought Inc.
+* Leah Holdridge, NumFOCUS
 
 ### Financial:
 
@@ -68,7 +69,7 @@
 
 ## Logistics Committee
 
-* Leah Holdridge, NumFOCUS, Posters
+<pending>
 
 ## John Hunter Excellence in Plotting Contest Committee
 
