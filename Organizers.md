@@ -56,7 +56,7 @@
 ### Financial:
 
 * Bill Cowan, Enthought Inc.
-* Jody Havranek, Enthought Inc.
+* Jodi Havranek, Enthought Inc.
 
 ### Logistics
 
