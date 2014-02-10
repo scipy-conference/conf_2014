@@ -74,6 +74,9 @@
 ## John Hunter Excellence in Plotting Contest Committee
 
 * Michael Droettboom, STScI, chair
+* Eric Firing, University of Hawai`i at Manoa
+* Jacob Vanderplas, University of Washington
+* Damon McDougall, University of Texas at Austin, content manager
 * Nelle Varoquaux, MINES ParisTech, web
 
 
